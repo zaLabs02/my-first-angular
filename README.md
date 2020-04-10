@@ -1,4 +1,4 @@
-# TugasFramework
+# Tugas Framework 
 
  Halaman ini adalah dibuat menggunakan framework frontend [Angular](https://github.com/angular/angular-cli) version 9.1.1, 
     dan juga menggunakan Bootstrap 4 serta mendukung <i>Progressive Web App</i>(PWA).
