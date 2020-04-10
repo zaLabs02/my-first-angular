@@ -1,6 +1,13 @@
 # TugasFramework
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+ Halaman ini adalah dibuat menggunakan framework frontend [Angular](https://github.com/angular/angular-cli) version 9.1.1, 
+    dan juga menggunakan Bootstrap 4 serta mendukung <i>Progressive Web App</i>(PWA).
+    Digunakan untuk menyelesaikan tugas mata kuliah Pemrogaman Framework
+
+## Screenshoot
+
+<img src="ss/1.png" height="380"> <img src="ss/2.png" height="380">
+<img src="ss/3.png" height="380"> <img src="ss/4.png" height="380">
 
 ## Development server
 
